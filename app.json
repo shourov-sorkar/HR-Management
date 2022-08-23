@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "HR-Management",
+    "slug": "HR-Management",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "HR-Management"
+}
